@@ -1,18 +1,13 @@
-## Electrical Engineer and Physicist. MsC in AI and Robotics
- 
-------
-
-### About
+### About me
 
 Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Artificial Intelligence and Robotics. As a lifelong learner, I am deeply passionate about Reinforcement Learning, Machine Learning, and Data Science.
 
-🔭 Currently, I am excited to switch gears to the field of Data Science and use my skills to make a positive impact on the world.
+🔭 Currently, I am excited to grow in the field of Data Science and use my skills to make a positive impact on the world.
 
 👉🏼 Connect with me via <a href="https://www.linkedin.com/in/leopoldo-agorio-aa5492218/"><img align="center" alt="Leo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>.
 
 💪 [ Check out my repository ](https://github.com/leopoldoagorio/Challenges) where I've compiled exercises, Kaggle challenges, and other interesting things I've learned.
 
------
 
 ### My Background
 
@@ -22,7 +17,6 @@ Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Ar
 
 👨🏻‍💻 Currently, I collaborate with the MISEs group on an open-source machine learning project that focuses on structural analysis. [Click here to check it out!](https://github.com/leopoldoagorio/mamaML)
 
------
 
 ### My skills
 <p align="left"> 
