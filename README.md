@@ -6,7 +6,7 @@ Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Ar
 
 💪 [ Check out my repository ](https://github.com/leopoldoagorio/Challenges) where I've compiled exercises, Kaggle challenges, and other interesting things I've learned.
 
-🎲 Fun fact: I enjoy playing the board game Go in my free time. You can find me on [online-go.com (OGS)](https://online-go.com/user/view/920781) challenging players from around the world!
+🎲 Fun fact: I enjoy playing the board game [Go⚫⚪](https://en.wikipedia.org/wiki/Go_(game)) in my free time. You can find me on [online-go.com (OGS)](https://online-go.com/user/view/920781) challenging players from around the world!
 
 ### My Background
 
