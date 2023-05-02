@@ -8,16 +8,16 @@ Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Ar
 
 🎲 Fun fact: I enjoy playing the board game [Go⚫⚪](https://en.wikipedia.org/wiki/Go_(game)) in my free time. You can find me on [online-go.com (OGS)](https://online-go.com/user/view/920781) challenging players from around the world!
 
-### My Background
+### What am I doing right now?
 
-🎓  I graduated with a Bachelor's in Physics in 2018 from Facultad de Ciencias (FCIEN) and an Electrical Engineering degree in 2019 from Facultad de Ingeniería (FING) UdelaR. In 2022, I successfully obtained my Master's degree in AI and Robotics (EEMsC, UdelaR), you can read my thesis at [colibri](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/33397?locale=es).
+🎓  In 2022, I successfully obtained my Master's degree in AI and Robotics (EEMsC, UdelaR), you can read my thesis at [colibri](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/33397?locale=es). I'm trying to publish some papers with the results.
 
-🧠 I have experience as a teacher and researcher in the Systems and Control Department at the Institute of Electrical Engineering ([SyCIIE](https://iie.fing.edu.uy/institucional/departamentos/sistemas-y-control/)). My previous work includes projects on Aerial Robotics and Reinforcement Learning. Currently I'm working on a Data Science project on Electrical Demand Estimation.
+🧠 I am a teacher and researcher in the Systems and Control Department at the Institute of Electrical Engineering ([SyCIIE](https://iie.fing.edu.uy/institucional/departamentos/sistemas-y-control/)). My previous work includes projects on Aerial Robotics and Reinforcement Learning. Currently I'm working on a Data Science project on Electrical Demand Estimation.
 
 👨🏻‍💻 Currently, I collaborate with the MISEs group on an open-source machine learning project that focuses on structural analysis. [Click here to check it out!](https://github.com/leopoldoagorio/mamaML)
 
 
-### My skills
+### Some Languages and Skills
 <p align="left"> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="36" height="36" alt="PyTorch" /></a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
