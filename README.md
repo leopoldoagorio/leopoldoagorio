@@ -2,7 +2,7 @@
 
 Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Artificial Intelligence and Robotics. As a lifelong learner, I am deeply passionate about Reinforcement Learning, Machine Learning, and Data Science. Connect with me via <a href="https://www.linkedin.com/in/leopoldo-agorio-aa5492218/"><img align="center" alt="Leo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>. 
 
-🔭 Currently, I am excited to grow in the field of Data Science and use my skills to make a positive impact on the world.
+🌟 Currently, I am excited to grow in the field of Data Science and use my skills to make a positive impact on the world.
 
 💪 [ Check out my repository ](https://github.com/leopoldoagorio/Challenges) where I've compiled exercises, Kaggle challenges, and other interesting things I've learned.
 
@@ -12,9 +12,9 @@ Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Ar
 
 🎓  In 2022, I successfully obtained my Master's degree in AI and Robotics (EEMsC, UdelaR), you can read my thesis at [colibri](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/33397?locale=es). I'm trying to publish some papers with the results.
 
-🧠 I am a teacher and researcher in the Systems and Control Department at the Institute of Electrical Engineering ([SyCIIE](https://iie.fing.edu.uy/institucional/departamentos/sistemas-y-control/)). My previous work includes projects on Aerial Robotics and Reinforcement Learning. Currently I'm working on a Data Science project on Electrical Demand Estimation.
+📚 I am a teacher and researcher in the Systems and Control Department at the Institute of Electrical Engineering ([SyCIIE](https://iie.fing.edu.uy/institucional/departamentos/sistemas-y-control/)). My previous work includes projects on Aerial Robotics and Reinforcement Learning. Currently I'm working on a Data Science project on Electrical Demand Estimation.
 
-👨🏻‍💻 Currently, I collaborate with the MISEs group on an open-source machine learning project that focuses on structural analysis. [Click here to check it out!](https://github.com/leopoldoagorio/mamaML)
+🤝🏻 Currently, I collaborate with the MISEs group on an open-source machine learning project that focuses on structural analysis. [Click here to check it out!](https://github.com/leopoldoagorio/mamaML)
 
 
 ### Some Languages and Skills
