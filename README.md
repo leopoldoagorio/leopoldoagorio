@@ -10,7 +10,7 @@ Hi there! I am an Electrical Engineer and Physicist with a Master's Degree in Ar
 
 ### What am I doing right now?
 
-🎓  In 2022, I successfully obtained my Master's degree in AI and Robotics (EEMsC, UdelaR), you can read my thesis at [colibri](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/33397?locale=es). My team is trying to publish two papers with the results.
+🎓  In 2022, I successfully obtained my Master's degree in AI and Robotics (EEMsC, UdelaR), you can read my thesis at [colibri](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/33397?locale=es). We are trying to publish two papers with the results.
 
 📚 I am a teacher and researcher in the Systems and Control Department at the Institute of Electrical Engineering ([SyCIIE](https://iie.fing.edu.uy/institucional/departamentos/sistemas-y-control/)). My previous work includes projects on Aerial Robotics and Reinforcement Learning. Currently I am working on a Data Science project on Electrical Demand Estimation.
 
